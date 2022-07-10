@@ -1,0 +1,152 @@
+[
+                    {
+                      "id":13,
+                     "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                     "dongia": 104300,
+                     "mausac": "den",
+                     "category":"dienthoai",
+                     "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000"
+                    },
+                      {
+                          "id":14,
+                        "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                        "dongia": 1002300,
+                        "mausac": "den",
+                        "category":"dienthoai",
+                        "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343704000"
+                           },
+                      {
+                          "id":15,
+                        "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                        "dongia": 100300,
+                        "mausac": "den",
+                        "category":"dienthoai",
+                        "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343705000"
+                        },
+                        {
+                          "id":16,
+                        "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                        "dongia": 100200,
+                        "mausac": "den",
+                        "category":"dienthoai",
+                        "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343705000"
+                        },
+                        {
+                        "id":17,
+                        "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                        "dongia": 102000,
+                        "mausac": "den",
+                        "category":"dienthoai",
+                        "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343703000"
+                        },
+                        {
+                        "id":18,
+                        "name": "Apple iPhone 12 Mini - 64GB - Chính hãng VN/A",
+                        "dongia": 100200,
+                        "mausac": "den",
+                        "category":"dienthoai",
+                        "hinh":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343705000"
+                        },
+                        {
+                          "id":19,
+                          "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                          "dongia": 100200,
+                          "mausac": "den",
+                          "category":"dongho",
+                          "hinh":"https://cdn.tgdd.vn/Products/Images/7077/250640/apple-watch-series-7-lte-45mm-vien-nhom-do-thumb-1-660x600.jpg"
+                          },
+                          {
+                            "id":19,
+                            "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                            "dongia": 100200,
+                            "mausac": "den",
+                            "category":"dongho",
+                            "hinh":"https://cdn.tgdd.vn/Products/Images/7077/234523/s6-lte-44mm-vien-nhom-day-cao-su-xanh-thumb-1-600x600.jpg"
+                            },
+                            {
+                              "id":19,
+                              "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                              "dongia": 100200,
+                              "mausac": "den",
+                              "category":"dongho",
+                              "hinh":"https://cdn.tgdd.vn/Products/Images/7077/254326/apple-watch-nike-series-7-gps-41mm-thumb-600x600.jpeg"
+                              },
+                              {
+                                "id":19,
+                                "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                                "dongia": 100200,
+                                "mausac": "den",
+                                "category":"dongho",
+                                "hinh":"https://cdn.tgdd.vn/Products/Images/7077/234919/s5-lte-40mm-vien-thep-day-thep-bac-thumb-600x600.jpg"
+                                },
+                                {
+                                  "id":19,
+                                  "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                                  "dongia": 100200,
+                                  "mausac": "den",
+                                  "category":"dongho",
+                                  "hinh":"https://cdn.tgdd.vn/Products/Images/7077/229030/apple-watch-s6-lte-40mm-vien-thep-day-thep-den-thumb-1-600x600.jpg"
+                                  },
+                                  {
+                                    "id":19,
+                                    "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                                    "dongia": 100200,
+                                    "mausac": "den",
+                                    "category":"dongho",
+                                    "hinh":"https://cdn.tgdd.vn/Products/Images/7077/234523/s6-lte-44mm-vien-nhom-day-cao-su-xanh-thumb-1-600x600.jpg"
+                                    },
+                                    {
+                                      "id":19,
+                                      "name": "Apple Watch SE 40mm viền nhôm dây silicon",
+                                      "dongia": 100200,
+                                      "mausac": "den",
+                                      "category":"dongho",
+                                      "hinh":"https://cdn.tgdd.vn/Products/Images/7077/234910/s6-lte-40mm-vien-nhom-day-cao-su-do-thumb-1-600x600.jpg"
+                                      },
+                                      {
+                                        "id":19,
+                                        "name": "Máy tính bảng iPad Pro M1 12.9 inch WiFi Cellular 128GB (2021) ",
+                                        "dongia": 100200,
+                                        "mausac": "den",
+                                        "category":"ipad",
+                                        "hinh":"https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-wifi-blue-thumb-600x600.jpg"
+                                        },
+                                        {
+                                          "id":19,
+                                          "name": "Máy tính bảng iPad Pro M1 12.9 inch WiFi Cellular 128GB (2021) ",
+                                          "dongia": 100200,
+                                          "mausac": "den",
+                                          "category":"ipad",
+                                          "hinh":"https://cdn.tgdd.vn/Products/Images/522/228899/ipad-4-cellular-hong-new-600x600-600x600.jpg"
+                                          },
+                                          {
+                                            "id":19,
+                                            "name": "Máy tính bảng iPad Pro M1 12.9 inch WiFi Cellular 128GB (2021) ",
+                                            "dongia": 100200,
+                                            "mausac": "den",
+                                            "category":"ipad",
+                                            "hinh":"https://cdn.tgdd.vn/Products/Images/522/274155/ipad-air-5-wifi-cellular-tim-thumb-600x600.jpg"
+                                            },
+                                            {
+                                              "id":19,
+                                              "name": "Máy tính bảng iPad Pro M1 12.9 inch WiFi Cellular 128GB (2021) ",
+                                              "dongia": 100200,
+                                              "mausac": "den",
+                                              "category":"ipad",
+                                              "hinh":"https://cdn.tgdd.vn/Products/Images/522/238649/ipad-pro-2021-129-inch-gray-600x600.jpg"
+                                              },
+                                              {
+                                                "id":19,
+                                                "name": "Máy tính bảng iPad Pro M1 12.9 inch WiFi Cellular 128GB (2021) ",
+                                                "dongia": 100200,
+                                                "mausac": "den",
+                                                "category":"ipad",
+                                                "hinh":"https://cdn.tgdd.vn/Products/Images/522/238649/ipad-pro-2021-129-inch-gray-600x600.jpg"
+                                                }
+                                        
+
+                            
+  
+
+                        
+                ]

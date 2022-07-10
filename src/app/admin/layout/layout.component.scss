@@ -1,0 +1,51 @@
+.menu{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  display: block;
+  z-index: 10;
+  
+  
+   nav{
+     ul{
+        margin: auto;
+       
+      li{
+        .bi.bi-apple {
+            fill: rgb(219, 214, 214);
+            margin-top: 10px;
+
+        }
+        .bi.bi-search{
+          color: antiquewhite;
+          margin-top: 10px;
+        }
+        .bi.bi-bag{
+            color: aliceblue;
+            margin-top: 10px;
+            margin-left: 10px;
+            
+        }
+      }
+    }
+   }
+  }
+  
+  main{
+  position: relative;
+  display: block;
+  margin-top: 100px;
+  
+  }
+  .modal-body{
+      ul{
+     
+        list-style-type: none;
+        li{
+          text-decoration: none;
+        }
+      }
+  }
+  
+  
